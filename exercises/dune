@@ -1,0 +1,4 @@
+(executable
+ (name exercise4)
+ (public_name exercise4)
+ (libraries unix))
