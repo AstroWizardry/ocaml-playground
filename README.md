@@ -2,8 +2,6 @@
 
 This repository is dedicated to learning OCaml basics and solving various problems using the language.
 
-// ... existing code ...
-
 ## Installation
 
 To install the necessary tools for this project, follow these steps:
